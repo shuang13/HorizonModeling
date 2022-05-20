@@ -8,7 +8,7 @@
 # Usage
 ``` python
 python main.py
-
+```
 # License
 
 [The MIT License](http://opensource.org/licenses/MIT)
